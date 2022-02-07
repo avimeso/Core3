@@ -50,6 +50,7 @@ SaberSlash2Command = {
 	healthCostMultiplier = 0,
 	actionCostMultiplier = 0,
 	mindCostMultiplier = 0,
+	accuracyBonus = 15,
 	forceCostMultiplier = 2.0,
 	visMod = 25,
 
